@@ -3,7 +3,7 @@
 
 THIS GAME IS STILL UNDER DEVELOPMENT. ALL ARE SUBJECT TO CHANGE.
 
-Assassin's Academy is a singleplayer first-person shooter game made with Unity. This is an assignment for New York University Abu Dhabi (NYUAD) Spring 2024 Games and Play class, part of Interactive Media program.
+Assassin's Academy is a singleplayer first-person shooter game made with Unity. This is an assignment for New York University Abu Dhabi (NYUAD) Spring 2024 Games and Play class, part of the Interactive Media program.
 
 # Features
 - Guns! Bullets! Projectiles!
@@ -28,5 +28,6 @@ Due to the extensive game project file size and Github file size limit, I am una
 
 https://drive.google.com/drive/folders/10dBHYCcyuGFxD-gInzYG49pgNwLob6Mf?usp=drive_link
 
-
+# Developer Note
+Making an FPS game is harder than it seems. Within a short span amount of time, it is quite difficult to focus on all aspect. While the FPS Engine was versatile enough to provide a basic player controller, interactable, and weapons, there are so many little tweaks that have to be implemented to achieve the shooter-beater FPS game I envisioned. I tried to implement A.I enemies, but between character basics and enemies complete with their state machines are two titans that need to be conquered at the same time, it was quite unfeasible. Because there is still some time to revise, I would like to update the map plus implement actual A.I enemies for the next update. 
 
