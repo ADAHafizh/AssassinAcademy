@@ -10,6 +10,9 @@ Assassin's Academy is a singleplayer first-person shooter game made with Unity. 
 - Health, Shields, and EXPLOSIONS!
 - Training & Sample Mission Map
 
+# Video Demo
+[![YT VIDEO](https://img.youtube.com/vi/1AA3GSpK2A/0.jpg)](https://www.youtube.com/watch?v=1AA3GSpK2A)
+
 # Gameplay Images
 
 
