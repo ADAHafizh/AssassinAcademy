@@ -15,7 +15,11 @@ Assassin's Academy is a singleplayer first-person shooter game made with Unity. 
 
 # Gameplay Images
 
+![Screenshot 2024-04-18 215724](https://github.com/ADAHafizh/AssassinAcademy/assets/144985531/27f2a026-d198-4b58-817c-853e108b06d0)
 
+![Screenshot 2024-04-18 215758](https://github.com/ADAHafizh/AssassinAcademy/assets/144985531/9236b4ba-304f-4d8d-abf4-229bff357c8a)
+
+![Screenshot 2024-04-18 215930](https://github.com/ADAHafizh/AssassinAcademy/assets/144985531/21c1db66-c670-4af5-8ce8-45b25ccc1d3a)
 
 # Assets & Resources
 All asset used within the project are available for use under CC Licenses. This game was made possible by heavily modifying Cowsin's FPS Engine. If you are an owner of these assets, and would like for this project to be taken down, please contact me via adh10023@nyu.edu
